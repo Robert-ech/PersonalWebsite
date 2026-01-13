@@ -447,7 +447,7 @@ function App() {
                       to create opportunities for communities like mine. Every line of code I write is 
                       a tribute to the neighborhood that made me who I am.
                     </p>
-                    <div className="quote">"From the streets to the code streets 💯"</div>
+                    <div className="quote">"Fun Fact: Attended Edison Middle School "</div>
                   </div>
                 </div>
 
