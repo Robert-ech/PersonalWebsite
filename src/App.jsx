@@ -438,7 +438,7 @@ function App() {
                   <h3>🏠 Growing Up in South Central</h3>
                   <div className="story-content">
                     <p>
-                      Born and raised in South Central LA, I learned early on the power of resilience, 
+                      Raised in South Central LA, I learned early on the power of resilience, 
                       community, and dreaming big. The streets that shaped me taught me to see challenges 
                       as opportunities and to never forget where I came from.
                     </p>
