@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: './',  // ← Changed from '/repo-name/' to './'
+  base: './',  // Use relative path - works for any repo name
 })
